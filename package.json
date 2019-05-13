@@ -1,0 +1,29 @@
+{
+  "name": "webauth-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohheyimjen/webauth-i-challenge.git"
+  },
+  "author": "ohheyimjen <jendority@gmail.com>",
+  "license": "MIT",
+  "description": "## Topics",
+  "bugs": {
+    "url": "https://github.com/ohheyimjen/webauth-i-challenge/issues"
+  },
+  "homepage": "https://github.com/ohheyimjen/webauth-i-challenge#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "knex": "^0.16.5",
+    "sqlite": "^3.0.3",
+    "sqlite3": "^4.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
